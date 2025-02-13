@@ -14,7 +14,7 @@ abstract class Vehicle {  // Abstract class Vehicle
 
     // Non-abstract method
     public void serviceInfo() {
-        System.out.println("Service your vehicle regularly to ensure optimal performance.");
+        System.out.println("Service your vehicle regularly.");
     }
 }
 
