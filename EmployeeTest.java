@@ -69,7 +69,7 @@ public class EmployeeTest {
 
         // Creating a Manager object
         System.out.println("\nCreating Manager Object:");
-        Manager mgr1 = new Manager("Dhairya", 101, 75000, "IT");
+        Manager mgr1 = new Manager("Harshit kumar", 101, 75000, "IT");
         mgr1.displayInfo();
 
         // Increasing manager's salary
