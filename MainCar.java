@@ -24,12 +24,10 @@ class Car extends Vehicle {
         super(make, model);
     }
 
-    @Override
     void startEngine() {
         System.out.println("The engine of " + make + " " + model + " is starting... Vroom!");
     }
 
-    @Override
     void stopEngine() {
         System.out.println("The engine of " + make + " " + model + " is stopping... Shutdown!");
     }
